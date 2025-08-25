@@ -1,0 +1,27 @@
+Origin: MT-96's Repo
+
+Label: MT96
+
+Version: 1.0
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: My tweaks
+
+MD5Sum:
+0d7d809a4a7ab7a2a51c90415a80e9dd
+Packages
+fc988f9f5326dbefd996a8cd398cce23
+Packages.gz
+SHA1:
+14ebc5a52dd87a2e7a661b2e67fece26dae83e5c
+Packages
+50888ec39329b5e41b92bb591514e808484092ee
+Packages.gz
+SHA256Sum:
+56e6500e4b255f96073572cd587a0862dd337156c8308ee5b9faf134f048232d
+Packages
+8f9af9e67a46a78528130b6811cbc6a0adeff12cbf214d17ecc336c9f3ff4620
+Packages.gz
