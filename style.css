@@ -19,9 +19,11 @@ html {
 
 body {
     color: white
-    @media (min-width: 768px) {
     background-color: transparent;
     font-family: '-apple-system','Helvetica Neue','system-ui';
+    
+    @media (min-width: 768px) {
+        background-color: transparent;
 }
 
 
