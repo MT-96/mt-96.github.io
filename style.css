@@ -8,6 +8,14 @@ h1, h3, p {
 }
 
 
+html {
+    background-image: url("Leopard.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
 body {
     background-color: #222222;
     font-family: '-apple-system','Helvetica Neue','system-ui';
