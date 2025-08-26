@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: MT-96 <mattie.thurlow2@hotmail.co.uk>
 Pre-Depends: firmware (>= 7), firmware (<= 13)
 Depends: mobilesubstrate
-Filename: /Users/mattie/Documents/GitHub/mt96.github.io/debs/com.mattie.alphabeticalreposforcydia_0.2-1_iphopneos-arm.deb
+Filename: /debs/com.mattie.alphabeticalreposforcydia_0.2-1_iphopneos-arm.deb
 Size: 22560
 MD5sum: 65091d2a23aad957395fdb62d23f5bbe
 SHA1: f9012b7bdcf10231088ecaac1d8d7586783725ef
