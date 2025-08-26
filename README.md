@@ -1,4 +1,3 @@
 
-A repository that hosts my .debs for public use. Any feedback is appreciated. Enjoy!
-
+A repository that hosts some of my projects. Some are experimental/outdated. Use at your own risk. ⚠️
 https://mt-96.github.io/repo/
