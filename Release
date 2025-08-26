@@ -1,6 +1,6 @@
 Origin: MT-96's Repo
 Label: MT-96's Repo
-Suite: stable
+Suite: experimental/outdated
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
