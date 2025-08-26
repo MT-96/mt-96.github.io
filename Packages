@@ -1,0 +1,74 @@
+Package: com.mattie.ipodapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Filename: /Users/mattie/Documents/GitHub/mt96.github.io/debs/com.mattie.ipodapp.deb
+Size: 120106
+MD5sum: c926b3cb35f9710a985d5c03de3a17a0
+SHA1: 8f411fd58dd692a65495a8568ebccf42619ce3a0
+SHA256: b974702a7c02d5026798d69af3d6783594e3f4cd81d401b523281f72071aa4d9
+Section: Applications
+Description: Revive the pre iOS 5 iPod app on your homescreen! For cosmetic use only, as it will crash on launch
+Author: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Name: Legacy iPod App
+
+Package: com.mattie.loader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Filename: /Users/mattie/Documents/GitHub/mt96.github.io/debs/com.mattie.loader_iphoneos-arm.deb
+Size: 176258
+MD5sum: 098ada8572a0e37f4f4d8f7e84a37046
+SHA1: 2fd7d2a74c98d4b2ada4c11e018db9d3bf85c305
+SHA256: ced40989a398095a92da4f3b4506de9e43b95226166ba63b98fee00c2f90e27b
+Section: Applications
+Description: Adds the Loader.app from Greenpois0n jailbreak. This package is more of a tribute to Chronic Dev rather than having any actual use as it will crash upon launch. Enjoy! :P
+Author: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Name: Greenpois0n Loader (retina)
+
+Package: com.mattie.loader2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Filename: /Users/mattie/Documents/GitHub/mt96.github.io/debs/com.mattie.loader2_iphoneos-arm.deb
+Size: 71084
+MD5sum: a3c943d3a8369f57b0091821b15fcb45
+SHA1: 886073d5d62a99c5f0a5e916ec9676a624be919d
+SHA256: 7aa46ac342ba7785881fed41710630e1d8227b512361fa17beb270eee93e1e28
+Section: Applications
+Description: Adds the Loader.app from Greenpois0n jailbreak. This package is more of a tribute to Chronic Dev rather than having any actual use as it will crash upon launch. Enjoy! :P
+Author: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Name: Greenpois0n Loader (non-retina)
+
+Package: com.yourepo.mt96.alphabeticalreposforcydia
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Pre-Depends: firmware (>= 7), firmware (<= 13)
+Depends: mobilesubstrate
+Filename: /Users/mattie/Documents/GitHub/mt96.github.io/debs/com.yourepo.mt96.alphabeticalreposforcydia_0.2-1_iphoneos-arm.deb
+Size: 22558
+MD5sum: a7c76b2b64a12966fc4efe83f60c8e09
+SHA1: f248cf0af7c23365ef69c5e6787b3832a063c502
+SHA256: c57e67f8011c33269eac73682e53f9ba35e0b4f0ec5673ecad4c3b0eace9612e
+Section: Tweaks
+Description: Categorises repos alphabetically under headers - this is especially useful for users who have many repos added to Cydia
+Author: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Name: alphaBetical Repos for Cydia
+
+Package: com.yourepo.mt96.disableresets
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Pre-Depends: firmware (>= 4), firmware (<= 13)
+Depends: mobilesubstrate
+Filename: /Users/mattie/Documents/GitHub/mt96.github.io/debs/com.yourepo.mt96.disableresets_0.1-1_iphoneos-arm.deb
+Size: 6302
+MD5sum: 56b35c48b014d48f245d3abef939c886
+SHA1: 3912910776c3c11ad0b24594b969a538dcf2d6e6
+SHA256: 3cd661e3bafd20349d714f1082ddcf340ef5df83af1cfbd24ae0e6234c0b2b22
+Section: Tweaks
+Description: Disables the options to 'Reset All Settings' & 'Erase All Content and Settings' in the Settings app to protect your jailbreak
+Author: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Name: Disable Resets
+
