@@ -17,6 +17,11 @@ html {
 }
 
 
+a {
+    color: #99FF33;
+}
+
+
 body {
     color: white
     background-color: transparent;
