@@ -1,8 +1,8 @@
 Origin: MT-96's Repo
-Label: MT-96's Repo
-Suite: experimental/outdated
+Label: MT-96's Cydia Repo
+Suite: beta/experimental
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: This repo includes some of my projects I have created over the years. May be outdated/broken on newer iOS. Use at your own risk. ⚠️
+Description: This repo includes some of my projects I have created over the years. ⚠️
