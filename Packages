@@ -1,0 +1,112 @@
+Package: com.mattie.alphabeticalreposforcydia
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Pre-Depends: firmware (>= 7), firmware (<= 13)
+Depends: mobilesubstrate
+Filename: debs/com.mattie.alphabeticalreposforcydia_0.2-1_iphopneos-arm.deb
+Size: 22560
+MD5sum: 65091d2a23aad957395fdb62d23f5bbe
+SHA1: f9012b7bdcf10231088ecaac1d8d7586783725ef
+SHA256: 8579ebc82aa9248485fcb67f385985f620854f6ea85b57b01968f1fe378fec88
+Section: Tweaks
+Description: Categorises repos alphabetically under headers - this is especially useful for users who have many repos added to Cydia
+Author: MT-96 <mattie.thurlow2@hotmail.co.uk>
+Name: alphaBetical Repos for Cydia
+
+Package: com.mattie.disableota
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: MT-96
+Depends: mobilesubstrate
+Filename: debs/com.mattie.disableota_0.4_iphoneos-arm.deb
+Size: 10368
+MD5sum: 2204f4b34a7881cbae80a8e3936774c7
+SHA1: 8d2ff36389a59333b2d6fb7be960bdf96cdefbe7
+SHA256: b75e7faa26679754af130441f44c8f9617cfe184971c1f77394562d2e8557d40
+Section: System
+Description: Disables OTA to prevent accidental updates.
+Author: MT-96
+Name: DisableOTA
+
+Package: com.mattie.disableresets
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: MT-96
+Depends: mobilesubstrate
+Filename: debs/com.mattie.disableresets_0.1-1_iphoneos-arm.deb
+Size: 6284
+MD5sum: 5b4863b91b5ff53b5ea3480248112ee6
+SHA1: 42ac430b6c2cb593ff9213e19aaa1811ad2fa421
+SHA256: dbe4572532db3f5cf4f7f6b826962995b443daf2ca54ff97a41b7bedcb71e826
+Section: Tweaks
+Homepage: https://mt-96.github.io/
+Description: Disables the options to 'Reset All Settings' & 'Erase All Content and Settings' in the Settings app to protect your jailbreak.
+Author: MT-96
+Dev: MT-96
+Name: Disable Resets
+
+Package: com.mattie.ipodapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MT-96
+Filename: debs/com.mattie.ipodapp_iphoneos-arm.deb
+Size: 120094
+MD5sum: 763305627509e51c446e7b7510ace875
+SHA1: 71968ebfe0a2254463dbe5817d4c801bf0ea6816
+SHA256: cf4683943d438c2c3d8c0712a9ecf59f6f45dede552edc2cfe405248b886bbb2
+Section: Addons
+Homepage: https://mt-96.github.io/
+Description: Revive the pre iOS 5 iPod app on your homescreen! For cosmetic use only, as it will crash on launch.
+Author: MT-96
+Dev: MT-96
+Name: Legacy iPod App
+
+Package: com.mattie.loader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MT-96
+Filename: debs/com.mattie.loader_iphoneos-arm.deb
+Size: 176256
+MD5sum: 8c8f39b9bc1c38e9894266ebdaedb61f
+SHA1: b351c5ddbf856f1a7ee6c8448e19ec907221d729
+SHA256: f5cb3e070960c6a590f81dde795c9835cd33724106b585ee4f101ff81c5cc235
+Section: Addons
+Homepage: https://mt-96.github.io/
+Description: Adds the Loader.app from Greenpois0n jailbreak. This package is more of a tribute to Chronic Dev rather than having any actual use as it will crash upon launch. Enjoy! :P
+Author: MT-96
+Dev: MT-96
+Name: Greenpois0n Loader (retina)
+
+Package: com.mattie.loader2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MT-96
+Filename: debs/com.mattie.loader2_iphoneos-arm.deb
+Size: 71076
+MD5sum: 6230cc434c7a207f23cef593cd99c7ce
+SHA1: 7d158efe376eddfe4605c89135e5e15af6b0119c
+SHA256: 05d2dad9ce50467a6b300db190ddce436ead5a8dcdec0f50206fc8469ebb4411
+Section: Addons
+Homepage: https://mt-96.github.io/
+Description: Adds the Loader.app from Greenpois0n jailbreak. This package is more of a tribute to Chronic Dev rather than having any actual use as it will crash upon launch. Enjoy! :P
+Author: MT-96
+Dev: MT-96
+Name: Greenpois0n Loader (non-retina)
+
+Package: com.mattie.supervisionenabler
+Version: 0.9-5
+Architecture: iphoneos-arm
+Maintainer: MT-96
+Filename: debs/com.mattie.supervisionenabler_0.9-5_iphoneos-arm.deb
+Size: 1328
+MD5sum: ba459008827eb18bfdcd6cf156da5f41
+SHA1: 186b555cfe3487779faaf0f73c1f654afce0b577
+SHA256: 347483aa8b26752a817050e51d06152364eee765eff529d149af823539c161bc
+Section: System
+Homepage: https://mt-96.github.io/
+Description: Supervision for your device! Needs to be enabled via root login on terminal, or over SSH. Type 'supervise' to enable and 'unsupervise' to disable.
+Author: MT-96
+Dev: MT-96
+Name: Supervision Enabler
+
