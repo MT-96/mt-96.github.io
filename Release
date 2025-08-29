@@ -1,8 +1,8 @@
 Origin: MT-96's Cydia Repo
 Label: MT-96's Cydia Repo
 Suite: beta/experimental
-Version: 1.0
+Version: 1.0-1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: This repo includes some of my projects I have created over the years. ⚠️
+Description: This repo includes some of my projects I have created over the years. May be outdated/broken. Use at your own risk. ⚠️
