@@ -1,4 +1,4 @@
-<div <center><img src="CydiaIcon.png" alt=""></center>
+<div <center><img src="CydiaIcon.png" alt="MT-96's Cydia Repo"></center>
 <br> <br>
   
 
