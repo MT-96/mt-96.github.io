@@ -1,5 +1,5 @@
-<div class="well">
-		 <center><img src="CydiaIcon.png" alt=""></center>
+<div 
+<center><img src="CydiaIcon.png" alt=""></center>
 <br> <br>
   
 
