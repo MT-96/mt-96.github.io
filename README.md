@@ -1,4 +1,4 @@
- <div class="well">
+<div class="well">
 		 <center><img src="CydiaIcon.png" alt=""></center>
   
 
