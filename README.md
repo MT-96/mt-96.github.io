@@ -1,6 +1,5 @@
-<center>
-<img src="CydiaIcon.png" alt="MT-96's Cydia Repo">
-</center>
+<div class="well">
+		<center><img src="CydiaIcon.png" alt=""></center>
 
 A repository that hosts some of my old projects from a few years ago.
 
