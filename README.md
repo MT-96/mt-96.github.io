@@ -4,7 +4,7 @@
 
 A repository that hosts some of my old projects from a few years ago.
 
-Be aware that some things may be broken/incompatible, depending on what iOS version you're on.
+Please be aware that some things may be broken/incompatible, depending on what iOS version you're on.
 
 Feedback is welcome. 😊
 
