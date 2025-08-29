@@ -3,7 +3,7 @@
 <br> <br>
   
 
-A repository that hosts some of my old projects.
+A repository that hosts some of my old projects from a good few years ago.
 
 Use at your own risk. ⚠️
 
